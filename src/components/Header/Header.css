@@ -1,0 +1,20 @@
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  width: 100%;
+  z-index: 1;
+  background: transparent;
+}
+
+.header__logo {
+  width: 72px;
+  margin: 0 .75rem;
+}
+
+.header__gear {
+  margin: 0 .75rem;
+}

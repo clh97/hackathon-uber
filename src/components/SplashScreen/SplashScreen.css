@@ -1,0 +1,19 @@
+.splash-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  z-index: 3;
+  background: var(--purple);
+  transition: background 300ms ease-out;
+}
+
+.splash-screen--hidden {
+  background: transparent;
+}
+
+.splash-screen__logo {
+  width: 130px;
+}

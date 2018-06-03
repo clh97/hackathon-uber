@@ -1,0 +1,36 @@
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  transition: background 300ms ease-in-out;
+}
+
+.loading--shown {
+  z-index: 2;
+  background: var(--purple);
+}
+
+.loading--hidden {
+  z-index: -2;
+  background: transparent;
+}
+
+#loading-circle {
+  display: block;
+  animation: rotate 3s infinite;
+  transform-origin: 50%;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'PT Sans';
+  src:  url('./fonts/pt-sans.ttf') format('truetype');
+}
+
+:root {
+  --purple: #8C4CFF;
+  --pink: #ff2a90;
+  --text-color: #4f4f4f;
+}
+
+body {
+  min-height: 100vh;
+  font-family: 'PT Sans', sans-serif;
+  color: var(--text-color);
+}

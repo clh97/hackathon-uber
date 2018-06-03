@@ -1,0 +1,19 @@
+<svg width="231" height="231" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 13.3C0 5.9 6 0 13.6 0h21.8C42.9 0 49 6 49 13.3v13.2c0 1.5-1.2 2.7-2.7 2.7H2.7A2.7 2.7 0 0 1 0 26.5V13.3zm13.6-8a8 8 0 0 0-8.2 8v10.6h38.2V13.3a8 8 0 0 0-8.2-8H13.6z" transform="translate(91 116.8)" fill="url(#paint0_linear)"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M0 13.3C0 5.9 6 0 13.6 0c7.5 0 13.6 6 13.6 13.3 0 7.3-6 13.2-13.6 13.2-7.5 0-13.6-6-13.6-13.2zm13.6-8a8 8 0 0 0-8.2 8 8 8 0 0 0 8.2 8 8 8 0 0 0 8.2-8 8 8 0 0 0-8.2-8z" transform="translate(101.9 85)" fill="url(#paint1_linear)"/>
+  <circle cx="84.5" cy="84.5" r="81.5" transform="rotate(-28.6 160.9 39.1)" stroke="url(#paint2_linear)" stroke-width="6"/>
+  <defs>
+    <linearGradient id="paint0_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(49 0 0 82.951 0 -12.3)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(25.48 0 0 26.36 .9 13.3)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="rotate(-2.7 488.4 864.8) scale(180.201)">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
